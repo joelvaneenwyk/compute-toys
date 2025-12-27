@@ -40,3 +40,5 @@ certificates
 
 # Downloaded WASM files (generated at build time)
 /public/wasm/
+
+.yarn/
