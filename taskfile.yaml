@@ -1,0 +1,11 @@
+# https://taskfile.dev
+
+version: '3'
+
+tasks:
+  default:
+    cmds:
+      - yarn install
+      - yarn build
+      - yarn fix
+      - yarn lint
